@@ -1,12 +1,12 @@
 var element = document.getElementById('random'); 
 setInterval(function(){
-    element.innerHTML = Math.floor((Math.random()*60)+1);   
-}, 5000);
+    element.innerHTML = Math.floor((Math.random()*20)+1);   
+}, 9000);
 
 
 
 function setTimer(){
-    var timer = (((Math.floor(Math.random() * 6))+1)*3000);
+    var timer = (((Math.floor(Math.random() * 6))+1)*20000);
     var interval = setInterval(updateCounter, timer);
 }
 

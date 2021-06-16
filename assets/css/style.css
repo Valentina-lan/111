@@ -1208,7 +1208,7 @@ h1, h2, h3, h4, h5, h6 {
     }
     .section_text {
         font-size: 12px;
-        font-width: 600;
+        font-weight: 600;
         color: #333;
     }
     

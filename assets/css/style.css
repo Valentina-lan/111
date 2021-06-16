@@ -329,7 +329,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .section_text {
-    color: #757575;
+    color: #555;
     font-size: 16px;
 }
 
@@ -1021,15 +1021,10 @@ h1, h2, h3, h4, h5, h6 {
     .stat_count {
         font-size: 41px;
     }
-    
-    
-    
-    
-    
-    
-    
+       
 }
     
+
 
 
 @media (max-width: 990px) {
@@ -1213,7 +1208,7 @@ h1, h2, h3, h4, h5, h6 {
     }
     .section_text {
         font-size: 12px;
-        font-width: 500;
+        font-width: 700;
     }
     
     

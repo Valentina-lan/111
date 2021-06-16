@@ -1187,9 +1187,6 @@ h1, h2, h3, h4, h5, h6 {
     }
     
     
-    
-    
-    
     .section {
         padding: 40px 0;
     }
@@ -1306,8 +1303,6 @@ h1, h2, h3, h4, h5, h6 {
         padding-bottom: 40px;
     }
     
-    
-    
 }
 
 
@@ -1342,8 +1337,6 @@ h1, h2, h3, h4, h5, h6 {
     }
     
     
-    
-   
     
     .card_item {
         max-width: 334px;
@@ -1420,7 +1413,7 @@ h1, h2, h3, h4, h5, h6 {
     
     .copyright {
         font-size: 12px;
-        margin-bottom: -30px;
+        margin-bottom: 0;
     }
     
 }

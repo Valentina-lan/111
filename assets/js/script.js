@@ -1,6 +1,6 @@
 var element = document.getElementById('random'); 
 setInterval(function(){
-    element.innerHTML = Math.floor((Math.random()*20)+1);   
+    element.innerHTML = Math.floor((Math.random()*13)+1);   
 }, 9000);
 
 
